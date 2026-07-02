@@ -125,6 +125,8 @@ const Contact = () => {
                 className="border rounded-full px-6 py-3 cursor-pointer hover:bg-secondary transition-all duration-700 border-secondary text-white"
               />
             </div> */}
+
+            {/* <>Hare I have to add Whatsapp Number</> */}
           </form>
         </div>
       </div>
