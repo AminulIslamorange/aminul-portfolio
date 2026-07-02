@@ -118,6 +118,13 @@ const Contact = () => {
                 className="border rounded-full px-6 py-3 cursor-pointer hover:bg-secondary transition-all duration-700 border-secondary text-white"
               />
             </div>
+            {/* <div className="mt-5">
+              <input
+                type="submit"
+                value="Send Message"
+                className="border rounded-full px-6 py-3 cursor-pointer hover:bg-secondary transition-all duration-700 border-secondary text-white"
+              />
+            </div> */}
           </form>
         </div>
       </div>
